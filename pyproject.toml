@@ -1,0 +1,9 @@
+[project]
+name = "frame2video"
+version = "0.1.0"
+description = "Combine image frames into a video"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "opencv-python>=4.8.0",
+]
